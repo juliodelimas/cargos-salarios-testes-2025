@@ -37,7 +37,8 @@ Os arquivos CSV podem ser baixados e utilizados para análises, gráficos e outr
 
 ## Resultados
 
-Ainda não transmiti os resultados em vídeo, mas farei isso em breve no [youtube.com/juliodelimas](https://youtube.com/juliodelimas).
+Thiago Cally criou uma análise detalhada dos dados trazendo insights interessantíssimos, inclusive com comparações com analos de 2023 e 2024, confira aqui: 
+[Google Collab do Thiago Cally]([https://youtube.com/juliodelimas](https://colab.research.google.com/drive/1Oow5txXtmjQGqYlWHsovK4uwNqCJMlpe?usp=sharing)).
 
 ## Contribuições
 
